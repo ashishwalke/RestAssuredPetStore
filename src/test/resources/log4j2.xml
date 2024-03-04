@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+	<Properties>
+		<Property name="log-path">logs</Property> <!-- Define the log folder path -->
+	</Properties>
+
+	<Appenders>
+		<RollingFile name="RollingFile"
+			fileName="${log-path}/automationLogs.log"
+			filePattern="${log-path}/automationLogs-%d{MM-dd-yy}-%i.log.gz">
+			<PatternLayout pattern="%d %p %c{1.} [%t] %m%n" />
+			<SizeBasedTriggeringPolicy size="1 MB" />
+			<DefaultRolloverStrategy max="10" />
+		</RollingFile>
+	</Appenders>
+
+	<Loggers>
+		<Root level="debug">
+			<AppenderRef ref="RollingFile" />
+		</Root>
+		<!--<Root level="debug">
+			<AppenderRef ref="RollingFile" />
+		</Root> #Keep Only One root that is either debug or log-->
+	</Loggers>
+</Configuration>

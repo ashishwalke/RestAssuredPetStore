@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-03T17:00:57 IST" name="Suite" finished-at="2024-03-03T17:01:07 IST" duration-ms="10497">
+    <groups>
+    </groups>
+    <test started-at="2024-03-03T17:00:57 IST" name="Test" finished-at="2024-03-03T17:01:07 IST" duration-ms="10497">
+      <class name="Api_Tests.UserTests2">
+        <test-method is-config="true" signature="setUpData()[pri:0, instance:Api_Tests.UserTests2@1e0b4072]" started-at="2024-03-03T17:00:57 IST" name="setUpData" finished-at="2024-03-03T17:00:59 IST" duration-ms="1468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpData -->
+        <test-method signature="testPostUser()[pri:1, instance:Api_Tests.UserTests2@1e0b4072]" started-at="2024-03-03T17:00:59 IST" name="testPostUser" finished-at="2024-03-03T17:01:03 IST" duration-ms="4570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUser()[pri:2, instance:Api_Tests.UserTests2@1e0b4072]" started-at="2024-03-03T17:01:03 IST" name="testGetUser" finished-at="2024-03-03T17:01:05 IST" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testUpdateUser()[pri:3, instance:Api_Tests.UserTests2@1e0b4072]" started-at="2024-03-03T17:01:05 IST" name="testUpdateUser" finished-at="2024-03-03T17:01:06 IST" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testDeleteUser()[pri:4, instance:Api_Tests.UserTests2@1e0b4072]" started-at="2024-03-03T17:01:06 IST" name="testDeleteUser" finished-at="2024-03-03T17:01:07 IST" duration-ms="1176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- Api_Tests.UserTests2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

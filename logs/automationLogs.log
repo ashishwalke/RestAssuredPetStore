@@ -1,0 +1,66 @@
+2024-03-02 13:16:02,275 INFO A.UserTests [main] *********Creating User*********
+2024-03-02 13:16:07,028 INFO A.UserTests [main] *********Reading User info*********
+2024-03-02 13:16:08,133 INFO A.UserTests [main] *********User info is displayed*********
+2024-03-02 13:16:08,147 INFO A.UserTests [main] *********Updating User*********
+2024-03-02 13:16:09,280 INFO A.UserTests [main] *********User is Updated*********
+2024-03-02 13:16:09,302 INFO A.UserTests [main] *********Deleting User*********
+2024-03-02 13:16:10,414 INFO A.UserTests [main] *********User Deleted*********
+2024-03-02 13:16:48,981 DEBUG A.UserTests [main] This is a debug message
+2024-03-02 13:16:48,985 INFO A.UserTests [main] *********Creating User*********
+2024-03-02 13:16:53,126 DEBUG A.UserTests [main] This is a debug message
+2024-03-02 13:16:53,126 INFO A.UserTests [main] *********Reading User info*********
+2024-03-02 13:16:54,296 INFO A.UserTests [main] *********User info is displayed*********
+2024-03-02 13:16:54,313 DEBUG A.UserTests [main] This is a debug message
+2024-03-02 13:16:54,313 INFO A.UserTests [main] *********Updating User*********
+2024-03-02 13:16:55,435 INFO A.UserTests [main] *********User is Updated*********
+2024-03-02 13:16:55,447 DEBUG A.UserTests [main] This is a debug message
+2024-03-02 13:16:55,447 INFO A.UserTests [main] *********Deleting User*********
+2024-03-02 13:16:56,580 INFO A.UserTests [main] *********User Deleted*********
+2024-03-03 17:00:59,381 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 17:00:59,386 INFO A.UserTests2 [main] *********Creating User*********
+2024-03-03 17:01:03,936 INFO A.UserTests2 [main] *********User Created*********
+2024-03-03 17:01:03,969 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 17:01:03,969 INFO A.UserTests2 [main] *********Reading User*********
+2024-03-03 17:01:05,182 INFO A.UserTests2 [main] *********Userinfo is displayed*********
+2024-03-03 17:01:05,198 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 17:01:05,198 INFO A.UserTests2 [main] *********Updating User*********
+2024-03-03 17:01:06,370 INFO A.UserTests2 [main] *********User is Updated*********
+2024-03-03 17:01:06,384 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 17:01:06,385 INFO A.UserTests2 [main] *********Deleting User*********
+2024-03-03 17:01:07,556 INFO A.UserTests2 [main] *********User Deleted*********
+2024-03-03 18:38:56,231 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 18:38:56,238 INFO A.UserTests2 [main] *********Creating User*********
+2024-03-03 18:39:01,074 INFO A.UserTests2 [main] *********User Created*********
+2024-03-03 18:39:01,110 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 18:39:01,110 INFO A.UserTests2 [main] *********Reading User*********
+2024-03-03 18:39:02,276 INFO A.UserTests2 [main] *********Userinfo is displayed*********
+2024-03-03 18:39:02,285 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 18:39:02,286 INFO A.UserTests2 [main] *********Updating User*********
+2024-03-03 18:39:03,566 INFO A.UserTests2 [main] *********User is Updated*********
+2024-03-03 18:39:03,579 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 18:39:03,580 INFO A.UserTests2 [main] *********Deleting User*********
+2024-03-03 18:39:04,750 INFO A.UserTests2 [main] *********User Deleted*********
+2024-03-03 19:07:33,800 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 19:07:33,805 INFO A.UserTests2 [main] *********Creating User*********
+2024-03-03 19:07:38,306 INFO A.UserTests2 [main] *********User Created*********
+2024-03-03 19:07:38,328 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 19:07:38,329 INFO A.UserTests2 [main] *********Reading User*********
+2024-03-03 19:07:39,535 INFO A.UserTests2 [main] *********Userinfo is displayed*********
+2024-03-03 19:07:39,539 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 19:07:39,540 INFO A.UserTests2 [main] *********Updating User*********
+2024-03-03 19:07:40,702 INFO A.UserTests2 [main] *********User is Updated*********
+2024-03-03 19:07:40,712 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-03 19:07:40,712 INFO A.UserTests2 [main] *********Deleting User*********
+2024-03-03 19:07:41,857 INFO A.UserTests2 [main] *********User Deleted*********
+2024-03-04 17:12:11,036 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-04 17:12:11,040 INFO A.UserTests2 [main] *********Creating User*********
+2024-03-04 17:12:16,556 INFO A.UserTests2 [main] *********User Created*********
+2024-03-04 17:12:16,593 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-04 17:12:16,593 INFO A.UserTests2 [main] *********Reading User*********
+2024-03-04 17:12:17,804 INFO A.UserTests2 [main] *********Userinfo is displayed*********
+2024-03-04 17:12:17,815 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-04 17:12:17,816 INFO A.UserTests2 [main] *********Updating User*********
+2024-03-04 17:12:18,977 INFO A.UserTests2 [main] *********User is Updated*********
+2024-03-04 17:12:18,984 DEBUG A.UserTests2 [main] This is a debug message
+2024-03-04 17:12:18,984 INFO A.UserTests2 [main] *********Deleting User*********
+2024-03-04 17:12:20,183 INFO A.UserTests2 [main] *********User Deleted*********
